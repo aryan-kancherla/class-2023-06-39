@@ -1,0 +1,14 @@
+---
+title: "Immigration Attitudes"
+format: html
+editor: visual
+---
+
+
+##Question
+
+```{r}
+library(tidyverse)
+library(primer.data)
+
+```
